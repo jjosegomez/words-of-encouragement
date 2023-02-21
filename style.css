@@ -1,0 +1,22 @@
+body{
+  height: 100vh;
+  background-image: ;linear-gradient(#ffb5b5, #ffff);
+}
+
+.row {
+  margin: 4vh 0;
+}
+input {
+  height: 40px;
+  text-align: center;
+}
+
+textarea {
+  width: 80%;
+  height: 120px;
+}
+
+textarea::placeholder {
+  text-align: center;
+  line-height: 60px;
+}
